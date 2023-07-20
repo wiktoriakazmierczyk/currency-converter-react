@@ -1,4 +1,4 @@
-.html {
+html {
   box-sizing: border-box;
   overflow-x: auto;
 }
@@ -22,4 +22,11 @@
   justify-content: center;
   background-image: url("background.jpg");
   background-size: cover;
+  min-height: 100vh;
+}
+
+@media (max-width: 767px) {
+  #root {
+      background-position: center;
+  }
 }

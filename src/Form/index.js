@@ -36,7 +36,7 @@ const Form = () => (
 
             <p className="form__footer">Bieżące kursy średnie walut obcych pochodzą ze strony internetowej Narodowego
                 Banku Polskiego.<br />
-                Tabela nr 039/A/NBP/2023 z dnia 2023-02-24.
+                Tabela nr 138/A/NBP/2023 z dnia 2023-07-19.
             </p>
 
         </fieldset>
