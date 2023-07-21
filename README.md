@@ -3,7 +3,7 @@
 ![Currency converter sample](https://i.postimg.cc/g2bPpyyH/animation.gif)
 
 ## Demo
-**Converts the exchange rate of five selected currencies (PLN, EUR, GBP, CHF or USD).**
+**Converts the exchange rate of five selected currencies (PLN, EUR, GBP, CHF or USD):**
 <br>
 https://wiktoriakazmierczyk.github.io/currency-converter/
 
