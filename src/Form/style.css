@@ -1,3 +1,7 @@
+.container {
+    flex-basis: 900px;
+  }
+
 .form__fieldset {
     background-color: #555555c5;
     border: none;
