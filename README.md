@@ -5,7 +5,7 @@
 ## Demo
 **Converts the exchange rate of five selected currencies (PLN, EUR, GBP, CHF or USD):**
 <br>
-https://wiktoriakazmierczyk.github.io/currency-converter/
+https://wiktoriakazmierczyk.github.io/currency-converter-react/
 
 <br>
 
